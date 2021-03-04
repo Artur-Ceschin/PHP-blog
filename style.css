@@ -50,3 +50,9 @@ ul {
   display: block;
   width: max-content;
 }
+
+textarea.campo-form{
+  min-width: 300px;
+  min-height: 100px;
+  padding: 10px;
+}
